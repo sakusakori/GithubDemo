@@ -1,3 +1,5 @@
 Working first time with git
 Now I have changed this first time.
 FIrst changed learning lifecycle
+I have added a new line 
+FInally changed
